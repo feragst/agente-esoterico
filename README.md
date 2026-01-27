@@ -1,6 +1,7 @@
 # agente-mistico
 
 ideia:
+```text
 agente-mistico/
 │
 ├── main.py
@@ -74,4 +75,4 @@ agente-mistico/
 │   ├── consultas.log
 │   └── sinais_gerados.log
 │
-
+|____
