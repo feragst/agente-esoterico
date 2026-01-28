@@ -1,6 +1,7 @@
 # agente-mistico
 
 ideia:
+```text
 agente_esoterico/
 ├── iniciar_agente.py          # Script principal
 ├── dados/
